@@ -44,8 +44,6 @@ def convert(filename):
     img = img / 255.0
     return img
 
-
-
 def loadImg(ui):
     print("--------uploading-----")
     root = tk.Tk()
